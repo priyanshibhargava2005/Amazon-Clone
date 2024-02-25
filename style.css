@@ -99,6 +99,25 @@
     font-size: 3rem;
 }
 
+.lang{
+    background-image: url("flag.jpg");
+    background-size: cover;
+    height: 20px;
+    width: 30px;
+}
+
+.nav-language p{
+    margin-left: 5px;
+    font-size:0.3em;
+    font-weight: 700;
+}
+
+.lang-icon{
+    font-size: 0.85rem;
+    color:#dddddd;
+    margin-top: 3px;
+}
+
 /* box4 */
 span{
     font-size: 0.7rem;
